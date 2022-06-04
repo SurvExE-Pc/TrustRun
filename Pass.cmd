@@ -1,0 +1,1 @@
+wscript.exe C:\SystemRun\Admin.vbs %1
